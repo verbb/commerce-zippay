@@ -39,7 +39,7 @@ class ZipPay extends OffsiteGateway
 
     public static function displayName(): string
     {
-        return Craft::t('commerce', 'Zip Pay');
+        return Craft::t('commerce-zip-pay', 'Zip Pay');
     }
 
     public function getSettingsHtml(): ?string

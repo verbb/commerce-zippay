@@ -1,5 +1,13 @@
 # Changelog
 
+## 4.0.0 - 2024-05-27
+
+### Changed
+- Now requires PHP `8.2.0+`.
+- Now requires Craft `5.0.0+`.
+- Now requires Craft Commerce `5.0.0+`.
+- Translations are now under the `commerce-zip-pay` category.
+
 ## 3.0.1 - 2023-09-19
 
 ### Changed
