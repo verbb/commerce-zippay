@@ -1,5 +1,5 @@
-# Zip Pay for Craft CMS
-<img width="500" src="https://verbb.imgix.net/plugins/zip-pay/zip-pay-social-card.png?v=1">
+<p align="center"><img src="https://verbb.imgix.net/plugins/zip-pay/zip-pay-icon.svg" width="100" height="100" alt="Zip Pay icon"></p>
+<h1 align="center">Zip Pay for Craft CMS</h1>
 
 Zip Pay is a Craft CMS plugin that adds support for [Zip Pay](https://zip.co/au) as a payment gateway for Craft Commerce.
 
@@ -15,5 +15,5 @@ Zip Pay is licensed under the MIT license, meaning it will always be free and op
 <h2></h2>
 
 <a href="https://verbb.io" target="_blank">
-    <img width="100" src="https://verbb.io/assets/img/verbb-pill.svg">
+    <img width="101" height="33" src="https://verbb.io/assets/img/verbb-pill.svg" alt="Verbb">
 </a>
